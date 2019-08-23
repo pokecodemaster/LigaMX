@@ -1,0 +1,27 @@
+Carlos Gonzalez,FW,32,Pumas,0
+Alfredo Saldivar,GK,1,Pumas,0
+Alan Mozo,DF,2,Pumas,0
+Pablo Jaquez,DF,3,Pumas,0
+Luis Quintana,DF,4,Pumas,0
+Alan Mendoza,DF,5,Pumas,0
+Kevin Escamilla,MF,6,Pumas,0
+David Cabrera,MF,7,Pumas,0
+Pablo Barrera,MF,8,Pumas,0
+Felipe Mora,FW,9,Pumas,0
+Andres Iniestra,MF,10,Pumas,0
+Juan Iturbe,FW,11,Pumas,0
+Victor Malcorra,MF,12,Pumas,0
+Brian Figueroa,MF,14,Pumas,0
+Martin Rodriguez,MF,17,Pumas,0
+Nicolas Freire,DF,18,Pumas,0
+Idekel Dominguez,DF,20,Pumas,0
+Martin Barragan,FW,21,Pumas,0
+Juan Pablo Vigon,MF,22,Pumas,0
+Jeison Angulo,DF,23,Pumas,0
+Gustavo Alcala,GK,25,Pumas,0
+Adolfo Hernandez,GK,27,Pumas,0
+Diego Rosales,DF,28,Pumas,0
+Miguel Angel Fraga,GK,29,Pumas,0
+Juan Jose Miguel,MF,30,Pumas,0
+Braulio Ramirez,DF,33,Pumas,0
+Guillermo Ochoa,GK,6,America,0
