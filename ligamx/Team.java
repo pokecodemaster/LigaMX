@@ -44,7 +44,7 @@ public class Team {
         }
         
         private void populateRoster() throws Exception{
-            File playersFile = new File("C:\\Users\\gxcxr01\\Documents\\NetBeansProjects\\LigaMX\\src\\ligamx\\allPlayers.txt");
+            File playersFile = new File("C:\\Users\\gxcxr01\\Documents\\NetBeansProjects\\LigaMX\\src\\ligamx\\allPlayers.csv");
             Scanner playersSC = new Scanner(playersFile);
             roster = new ArrayList<Player>();
             

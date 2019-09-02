@@ -38,7 +38,7 @@ public class Tournament {
             File teamsFile = new File("C:\\Users\\gxcxr01\\Documents\\NetBeansProjects\\LigaMX\\src\\ligamx\\allTeams.txt");
             Scanner teamSC = new Scanner(teamsFile); 
             
-            File jornadasFile = new File("C:\\Users\\gxcxr01\\Documents\\NetBeansProjects\\LigaMX\\src\\ligamx\\allJornadas2.csv");
+            File jornadasFile = new File("C:\\Users\\gxcxr01\\Documents\\NetBeansProjects\\LigaMX\\src\\ligamx\\allJornadas.csv");
             Scanner jornadasSC = new Scanner(jornadasFile);
 
             while (teamSC.hasNextLine()){
